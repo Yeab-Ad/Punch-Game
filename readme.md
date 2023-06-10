@@ -48,7 +48,7 @@ To play the Whac-A-Mole game locally on your machine, follow these steps:
 
 ## Demo
 
-You can find a live demo of the Whac-A-Mole game [here](https://your-demo-url).
+You can find a live demo of the Whac-A-Mole game [here](https://whac-a-moles.netlify.app).
 
 ## Contributing
 
