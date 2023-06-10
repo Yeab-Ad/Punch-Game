@@ -238,10 +238,11 @@ display: flex;
     z-index: 111111;
 }
 
-.github, .website {
+.github a, .website a{
   display: flex;
   align-items: center;
   margin-right: 10px;
+  color: black;
 }
 
 .github img, .website img {
