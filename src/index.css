@@ -1,10 +1,10 @@
 :root {
   --controls: hsl(38, 96%, calc((55 + var(--lightness, 0)) * 1%));
-  --controls-secondary: hsl(55, 100%, 50%);
+  --controls-secondary: hsl(337, 100%, 50%);
   --controls-color: hsl(0, 0%, 100%);
   --sky: hsl(204, 80%, 80%);
   --grass: hsl(98, 40%, 50%);
-  --dirt: hsl(35, 40%, 20%);
+  --dirt: hsl(350, 39%, 20%);
 }
 
 * {
@@ -175,7 +175,7 @@ button:active {
 }
 
 .icon {
-  fill: hsl(35, 50%, 28%);
+  fill: hsl(0, 0%, 22%);
   stroke-width: 20px;
   overflow: visible;
   height: 24px;
@@ -219,4 +219,39 @@ button:active {
 .boring-text {
   font-size: 2rem;
   text-align: center;
+}
+
+.footer{
+  position: fixed;
+    bottom: 0;
+    margin: 10px;
+}
+
+.footer-container {
+display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f2f2f254;
+    padding: 7px;
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    z-index: 111111;
+}
+
+.github, .website {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.github img, .website img {
+  width: 23px;
+  height: 23px;
+  margin-right: 5px;
+}
+
+p {
+  margin: 0;
+  font-size: 16px;
+  font-weight: bold;
 }
