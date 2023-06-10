@@ -245,7 +245,7 @@ display: flex;
   color: black;
 }
 
-.github img, .website img {
+.github svg, .website img {
   width: 23px;
   height: 23px;
   margin-right: 5px;
