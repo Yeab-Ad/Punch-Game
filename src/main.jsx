@@ -13,14 +13,14 @@ ReactDOM.render(
         <div className="github">
           <a href="https://github.com/Yeab-Ad" target="_blank">
             <img src="src\assets\github-icon.png" alt="GitHub Icon" />
+            <p>Yeab-Ad</p>
           </a>
-          <p>Yeab-Ad</p>
         </div>
         <div className="website">
-          <a href="https://yeabsiraofficial.netlify.app" target="_blank">
+          <a href="https://yeabsiras.netlify.app" target="_blank">
             <img src="src\assets\U.svg" alt="Website Icon" />
+            <p>Website</p>
           </a>
-          <p>Website</p>
         </div>
       </div>
     </footer>
