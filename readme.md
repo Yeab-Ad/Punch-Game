@@ -1,5 +1,5 @@
 # Whac-A-Mole Game
-
+ 
 Welcome to the Whac-A-Mole game! This is a fun and interactive game where you have to whack the moles as they pop up from their holes. Let's get started!
 
 ## Instructions
